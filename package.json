@@ -1,5 +1,5 @@
 {
-  "name": "sn-theme-contrast",
+  "name": "sn-theme-h89",
   "version": "1",
   "main": "dist/dist.css",
   "devDependencies": {
@@ -13,6 +13,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/tashakim/newsnextension"
+    "url": "git://github.com/tashakim/brightnessdifferential89-100"
   }
 }
