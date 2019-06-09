@@ -1,2 +1,1 @@
-# brightnessdifferential89-100
-snextension
+# Contrast style Theme
